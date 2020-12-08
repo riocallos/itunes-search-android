@@ -3,11 +3,11 @@ Demonstrate master detail app using Kotlin, MVVM, Retrofit, Room, RxJava, Dagger
 
 ## Screenshots
 **Phone**
-![Phone](https://drive.google.com/file/d/1F5LvbqX9SiUYDMR1H3hFhNKlS_fdwKjg/view?usp=sharing)
-![Phone](https://drive.google.com/file/d/1KlLMkcDdB0MXyK7GHJD3ESQGV23RbEy3/view?usp=sharing)
+![Phone](./app/screenshots/phone1.png)
+![Phone](./app/screenshots/phone2.png)
 
 **Tablet**
-![Tablet](https://drive.google.com/file/d/1FtOKCaR4sFTYb62zOiNLgL9zDD3Ftvd1/view?usp=sharing)
+![Tablet](./app/screenshots/tablet.png)
 
 ## APK
 [Download here.](https://drive.google.com/file/d/1sbjno5FPQKF-d98zbwg7jC9nZkWsgzZG/view?usp=sharing)
