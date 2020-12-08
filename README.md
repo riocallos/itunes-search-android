@@ -1,5 +1,8 @@
-# iTunes Android
+# iTunes Search Android
 Demonstrate master detail app using Kotlin, MVVM, Retrofit, Room, RxJava, Dagger, and Data Binding.
+
+## Build
+[Download APK here.](https://drive.google.com/file/d/1sbjno5FPQKF-d98zbwg7jC9nZkWsgzZG/view?usp=sharing)
 
 ## Screenshots
 **Phone**
@@ -10,9 +13,6 @@ Demonstrate master detail app using Kotlin, MVVM, Retrofit, Room, RxJava, Dagger
 **Tablet**
 <br />
 <img src="./app/screenshots/tablet.png" width="350" height="200">
-
-## Build
-[Download APK here.](https://drive.google.com/file/d/1sbjno5FPQKF-d98zbwg7jC9nZkWsgzZG/view?usp=sharing)
 
 ## Persistence
 I used **Room** persistence library since it is easier to code, 
