@@ -13,7 +13,7 @@ Demonstrate master detail app using Kotlin, MVVM, Retrofit, Room, RxJava, Dagger
 <img src="./app/screenshots/tablet.png" width="200" height="100">
 
 ## Build
-[Download APK here.](./app/release/itunes-search.apk)
+[Download APK here.](https://drive.google.com/file/d/1sbjno5FPQKF-d98zbwg7jC9nZkWsgzZG/view?usp=sharing)
 
 ## Persistence
 I used **Room** persistence library since it is easier to code, 
