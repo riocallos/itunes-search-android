@@ -3,11 +3,14 @@ Demonstrate master detail app using Kotlin, MVVM, Retrofit, Room, RxJava, Dagger
 
 ## Screenshots
 **Phone**
-![Phone](./app/screenshots/phone1.png =100x200)
-![Phone](./app/screenshots/phone2.png =100x200)
+![Phone](./app/screenshots/phone1.png)
+<img src="./app/screenshots/phone1.png" width="100" height="200">
+![Phone](./app/screenshots/phone2.png)
+<img src="./app/screenshots/phone2.png" width="100" height="200">
 
 **Tablet**
-![Tablet](./app/screenshots/tablet.png =200x100)
+![Tablet](./app/screenshots/tablet.png)
+<img src="./app/screenshots/tablet.png" width="200" height="100">
 
 ## Build
 [Download APK here.](./app/release/itunes-search.apk)
